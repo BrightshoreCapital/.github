@@ -1,4 +1,5 @@
 # Brightshore Capital
+![Brightshore Capital banner](./brightshore-banner.png)
 
 Welcome to Brightshore Capital’s GitHub organization. This is where we manage our internal software and automation projects.
 
